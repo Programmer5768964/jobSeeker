@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+.post-job-form {
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  width: 1000px;
+  justify-content: center;
+  margin-left: 150px;
+}
+.post-job-form h1 {
+  margin: auto;
+  font-family: "Abril Fatface", cursive;
+  color: #61bafb;
+}
+.input-Boxes {
+  height: 49px;
+  width: 70%;
+  margin: auto;
+  border-radius: 16px;
+}
+.text-area {
+  height: 70px;
+  width: 70%;
+  margin: auto;
+  border: 2px solid black;
+  border-radius: 11px;
+}
+=======
+.post-job-form {
+  display: flex;
+  flex-direction: column;
+  height: 700px;
+  width: 1000px;
+  justify-content: center;
+  margin-left: 150px;
+}
+.input-Boxes {
+  height: 30px;
+  width: 70%;
+  margin: auto;
+}
+.text-area {
+  height: 70px;
+  width: 70%;
+  margin: auto;
+}
+>>>>>>> 3857870b87f1ef605f32b51f27ad3bfb2310ba67
